@@ -1,6 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FTufoT&psig=AOvVaw1xnanoH8yFvjrorM6N23b5&ust=1713104392896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDdmqixv4UDFQAAAAAdAAAAABAY)](https://kelvinpuyam.github.io/MyPortfolio/)
 <h1 align="center">Hi 👋, I'm Kelvin Puyam</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer</h3>
 
 - 🌱 I’m currently learning **Docker**
 
